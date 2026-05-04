@@ -2,6 +2,8 @@
 
 An interactive 3D visualization of the React rendering stack — trace component renders, state updates, Zustand store actions, and async queries in real time.
 
+<img src="./assets/preview.png" height="" />
+
 ## What it does
 
 - Instruments React components, hooks, and Zustand stores without modifying application code
